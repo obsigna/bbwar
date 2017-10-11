@@ -152,7 +152,7 @@ demanda: `~/bin/bbwar.sh`
     mkdir -p ~/bin
     cp bbwar.sh ~/bin
     chmod +x ~bin/bbwar.sh
-    
+
 
 ### Testes
 
