@@ -1,4 +1,3 @@
-# bbwar
 Warsaw da GAS/Diebold foi adotado pelo Banco do Brasil para macOS
 =================================================================
 
@@ -26,13 +25,13 @@ inspecionei o conteúdo com o aplicativo
 [unpkg](https://www.timdoug.com/unpkg/) do Tim Doug, para saber quais
 arquivos, scripts e executáveis serão instalados aonde.
 
-![](wp-content/uploads/2017/02/unpkg%20varsóvia.png)
+![](https://github.com/obsigna/bbwar/raw/master/unpkg%20varsóvia.png)
 
  
 
 ### Análise
 
-![](wp-content/uploads/2017/02/warsaw%20content.png)
+![](https://github.com/obsigna/bbwar/raw/master/warsaw%20content.png)
 
 1.  Os daemons e agents no Mac OS X (i.e. serviços) são controlados
     pelas property lists
