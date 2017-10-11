@@ -147,17 +147,27 @@ demanda: `~/bin/bbwar.sh`
        sudo launchctl unload -w /Library/LaunchDaemons/com.diebold.warsaw.plist
     fi
 
-    $ bbwar stop
+### Instalação
+
+    mkdir -p ~/bin
+    cp bbwar.sh ~/bin
+    chmod +x ~bin/bbwar.sh
+    
+
+### Testes
+
+    $ bbwar.sh stop
     $ ps axj | grep warsaw
     >>>>
     rolf              295   290   294      0    2 S+   s000    0:00.00 grep warsaw
 
-    $ bbwar start
+    $ bbwar.sh start
     $ ps axj | grep warsaw
     >>>>
     root              354     1   354      0    0 Ss     ??    0:00.25 /usr/local/bin/warsaw/core
     rolf              356   201   356      0    1 S      ??    0:00.57 /usr/local/bin/warsaw/core
     rolf              358   290   357      0    2 R+   s000    0:00.00 grep warsaw
+
 
 ### O lado positivo
 
