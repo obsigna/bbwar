@@ -135,7 +135,7 @@ minhas preocupações ou seja:
 
 Acho melhor, que o Warsaw está ativo somente quando quero entra na minha
 conta do BB, e então criei um script para desativar/ativar o Warsaw sob
-demanda: `~/bin/bbwar`
+demanda: `~/bin/bbwar.sh`
 
     #!/bin/sh
 
