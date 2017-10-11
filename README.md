@@ -149,9 +149,9 @@ demanda: `~/bin/bbwar.sh`
 
 ### Instalação
 
-    mkdir -p ~/bin
-    cp bbwar.sh ~/bin
-    chmod +x ~bin/bbwar.sh
+    $ mkdir -p ~/bin
+    $ cp bbwar.sh ~/bin
+    $ chmod +x ~bin/bbwar.sh
 
 
 ### Testes
